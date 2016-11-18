@@ -1,9 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 
 
@@ -415,25 +414,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header3-l .mbr-section-title,
-#header3-l .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-l SPAN {
-  color: #eb6b56;
-  font-size: 36px;
-  font-family: 'Slabo 27px', serif;
-}
-#header3-m .mbr-section-title,
-#header3-m .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-m H3 {
-  color: #d14841;
-  font-family: 'Slabo 27px', serif;
-  font-size: 36px;
-}
-
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -646,4 +626,20 @@ h6,
 #menu-n .close-icon::before,
 #menu-n .close-icon::after {
   background-color: #ffffff;
+}
+
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-l SPAN {
+  color: #90a878;
+  font-size: 36px;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box5-w H3 {
+  color: #90a878;
+}
+#msg-box5-10 H3 {
+  color: #c0a375;
 }
