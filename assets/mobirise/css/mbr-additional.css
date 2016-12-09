@@ -420,11 +420,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #a38f84;
+  color: #3d8eb9;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #a38f84;
+  color: #3d8eb9;
 }
 #menu-0 .link {
   font-size: 0.6rem;
@@ -441,22 +441,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #d6d6d6;
+  background: #8c7568;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #9c877b!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #a38f84;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #a38f84;
+  color: #3d8eb9;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -478,7 +478,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #a38f84;
+  background-color: #3d8eb9;
 }
 #header1-1 .mbr-section-title {
   color: #cccccc;
@@ -497,11 +497,11 @@ h6,
   color: #ffffff;
 }
 #menu-f .navbar-toggler {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-f .link,
 #menu-f .dropdown-item {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-f .link {
   font-size: 0.6rem;
@@ -518,22 +518,22 @@ h6,
 }
 #menu-f .link[aria-expanded="true"],
 #menu-f .dropdown-menu {
-  background: #d6d6d6;
+  background: #8c7568;
 }
 #menu-f .nav-dropdown-sm .link:focus,
 #menu-f .nav-dropdown-sm .link:hover,
 #menu-f .nav-dropdown-sm .dropdown-item:focus,
 #menu-f .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #9c877b!important;
 }
 #menu-f .navbar,
 #menu-f .nav-dropdown-sm,
 #menu-f .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-f .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #a38f84;
 }
 #menu-f .bg-color.transparent .link {
-  color: #a38f84;
+  color: #2969b0;
   transition: none;
 }
 #menu-f .bg-color.transparent.opened .link {
@@ -555,15 +555,19 @@ h6,
 }
 #menu-f .close-icon::before,
 #menu-f .close-icon::after {
-  background-color: #a38f84;
+  background-color: #2969b0;
 }
-#header1-i .mbr-section-title {
-  color: #7e9b9f;
-  font-size: 48px;
+#header5-1i .mbr-section-title {
+  color: #ffffff;
   font-family: 'PT Serif', serif;
+  font-size: 32px;
 }
-#header1-i .mbr-section-title I {
-  font-size: 25px;
+#header5-1i .mbr-section-lead {
+  color: #9c9a9a;
+}
+#header5-1i .mbr-section-title SPAN {
+  font-size: 48px;
+  color: #ffffff;
 }
 
 #menu-f .hide-buttons .nav-btn {
@@ -573,11 +577,11 @@ h6,
   color: #ffffff;
 }
 #menu-f .navbar-toggler {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-f .link,
 #menu-f .dropdown-item {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-f .link {
   font-size: 0.6rem;
@@ -594,22 +598,22 @@ h6,
 }
 #menu-f .link[aria-expanded="true"],
 #menu-f .dropdown-menu {
-  background: #d6d6d6;
+  background: #8c7568;
 }
 #menu-f .nav-dropdown-sm .link:focus,
 #menu-f .nav-dropdown-sm .link:hover,
 #menu-f .nav-dropdown-sm .dropdown-item:focus,
 #menu-f .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #9c877b!important;
 }
 #menu-f .navbar,
 #menu-f .nav-dropdown-sm,
 #menu-f .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-f .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #a38f84;
 }
 #menu-f .bg-color.transparent .link {
-  color: #a38f84;
+  color: #2969b0;
   transition: none;
 }
 #menu-f .bg-color.transparent.opened .link {
@@ -631,7 +635,7 @@ h6,
 }
 #menu-f .close-icon::before,
 #menu-f .close-icon::after {
-  background-color: #a38f84;
+  background-color: #2969b0;
 }
 #header5-1g .mbr-section-title {
   color: #ffffff;
@@ -653,11 +657,11 @@ h6,
   color: #ffffff;
 }
 #menu-f .navbar-toggler {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-f .link,
 #menu-f .dropdown-item {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-f .link {
   font-size: 0.6rem;
@@ -674,22 +678,22 @@ h6,
 }
 #menu-f .link[aria-expanded="true"],
 #menu-f .dropdown-menu {
-  background: #d6d6d6;
+  background: #8c7568;
 }
 #menu-f .nav-dropdown-sm .link:focus,
 #menu-f .nav-dropdown-sm .link:hover,
 #menu-f .nav-dropdown-sm .dropdown-item:focus,
 #menu-f .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #9c877b!important;
 }
 #menu-f .navbar,
 #menu-f .nav-dropdown-sm,
 #menu-f .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-f .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #a38f84;
 }
 #menu-f .bg-color.transparent .link {
-  color: #a38f84;
+  color: #2969b0;
   transition: none;
 }
 #menu-f .bg-color.transparent.opened .link {
@@ -711,7 +715,7 @@ h6,
 }
 #menu-f .close-icon::before,
 #menu-f .close-icon::after {
-  background-color: #a38f84;
+  background-color: #2969b0;
 }
 #header5-14 .mbr-section-title {
   color: #ffffff;
@@ -732,11 +736,11 @@ h6,
   color: #ffffff;
 }
 #menu-15 .navbar-toggler {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-15 .link,
 #menu-15 .dropdown-item {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-15 .link {
   font-size: 0.6rem;
@@ -753,22 +757,22 @@ h6,
 }
 #menu-15 .link[aria-expanded="true"],
 #menu-15 .dropdown-menu {
-  background: #d6d6d6;
+  background: #8c7568;
 }
 #menu-15 .nav-dropdown-sm .link:focus,
 #menu-15 .nav-dropdown-sm .link:hover,
 #menu-15 .nav-dropdown-sm .dropdown-item:focus,
 #menu-15 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #9c877b!important;
 }
 #menu-15 .navbar,
 #menu-15 .nav-dropdown-sm,
 #menu-15 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-15 .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #a38f84;
 }
 #menu-15 .bg-color.transparent .link {
-  color: #a38f84;
+  color: #2969b0;
   transition: none;
 }
 #menu-15 .bg-color.transparent.opened .link {
@@ -790,7 +794,7 @@ h6,
 }
 #menu-15 .close-icon::before,
 #menu-15 .close-icon::after {
-  background-color: #a38f84;
+  background-color: #2969b0;
 }
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
@@ -799,11 +803,11 @@ h6,
   color: #ffffff;
 }
 #menu-18 .navbar-toggler {
-  color: #7e9b9f;
+  color: #2969b0;
 }
 #menu-18 .link,
 #menu-18 .dropdown-item {
-  color: #7e9b9f;
+  color: #2969b0;
 }
 #menu-18 .link {
   font-size: 0.6rem;
@@ -820,22 +824,22 @@ h6,
 }
 #menu-18 .link[aria-expanded="true"],
 #menu-18 .dropdown-menu {
-  background: #d6d6d6;
+  background: #8c7568;
 }
 #menu-18 .nav-dropdown-sm .link:focus,
 #menu-18 .nav-dropdown-sm .link:hover,
 #menu-18 .nav-dropdown-sm .dropdown-item:focus,
 #menu-18 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #9c877b!important;
 }
 #menu-18 .navbar,
 #menu-18 .nav-dropdown-sm,
 #menu-18 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-18 .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #a38f84;
 }
 #menu-18 .bg-color.transparent .link {
-  color: #7e9b9f;
+  color: #2969b0;
   transition: none;
 }
 #menu-18 .bg-color.transparent.opened .link {
@@ -857,7 +861,7 @@ h6,
 }
 #menu-18 .close-icon::before,
 #menu-18 .close-icon::after {
-  background-color: #7e9b9f;
+  background-color: #2969b0;
 }
 
 #menu-1b .hide-buttons .nav-btn {
@@ -867,11 +871,11 @@ h6,
   color: #ffffff;
 }
 #menu-1b .navbar-toggler {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-1b .link,
 #menu-1b .dropdown-item {
-  color: #a38f84;
+  color: #2969b0;
 }
 #menu-1b .link {
   font-size: 0.6rem;
@@ -888,22 +892,22 @@ h6,
 }
 #menu-1b .link[aria-expanded="true"],
 #menu-1b .dropdown-menu {
-  background: #d6d6d6;
+  background: #8c7568;
 }
 #menu-1b .nav-dropdown-sm .link:focus,
 #menu-1b .nav-dropdown-sm .link:hover,
 #menu-1b .nav-dropdown-sm .dropdown-item:focus,
 #menu-1b .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #9c877b!important;
 }
 #menu-1b .navbar,
 #menu-1b .nav-dropdown-sm,
 #menu-1b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1b .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #a38f84;
 }
 #menu-1b .bg-color.transparent .link {
-  color: #a38f84;
+  color: #2969b0;
   transition: none;
 }
 #menu-1b .bg-color.transparent.opened .link {
@@ -925,10 +929,10 @@ h6,
 }
 #menu-1b .close-icon::before,
 #menu-1b .close-icon::after {
-  background-color: #a38f84;
+  background-color: #2969b0;
 }
 #header2-1e H3 {
   color: #a38f84;
-  font-size: 21px;
+  font-size: 19px;
   font-family: 'PT Serif', serif;
 }
