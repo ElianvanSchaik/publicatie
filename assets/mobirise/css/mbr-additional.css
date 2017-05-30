@@ -1112,6 +1112,14 @@ h6,
 #menu-18 .close-icon::after {
   background-color: #f28281;
 }
+#header3-2i .mbr-section-title,
+#header3-2i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2i H3 {
+  font-size: 36px;
+  color: #90a878;
+}
 #footer1-19 P {
   color: #c1c1c1;
 }
